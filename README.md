@@ -15,10 +15,4 @@ Skills: C# / HTML / CSS / C++ / JS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaseto28)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaseto28&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Vaseto28)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Vaseto28)  
-
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaseto28&show_icons=true) 
