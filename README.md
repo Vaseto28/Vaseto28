@@ -4,7 +4,7 @@
 
 My name is Vasil and I'm from Bulgaria. Now I'm learning C# at Software University. I like programming and I am good at the exact sciences. Also I love skiing and I play on a bagpipe.
 
-Skills: https://iconscout.com/icons/javascript
+Skills: C# / JS / HTML / CSS / C++
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Vaseto28)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/LoadingMM)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Vaseto._28/)  
 
