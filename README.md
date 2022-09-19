@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Vasil Kremenarov
 #### C# Programmer
 
-My name is Vasil and I'm from Bulgaria. Now I'm learning C# at Software University. I like programming and I am good at the exact sciences. Also I love skiing and I play on a bagpipe.
+My name is Vasil and I'm from Bulgaria. I'm currently learning C# and JavaScript at Software University (SoftUni). I like programming and I am good at the exact sciences. My goals for 2022 are to learn more and more features of programming and also to make colaborations with other developers. I'm interested in crypto currencies and real estate investments. I also have a hobby to go skiing in winter and I'm a great bagpipe player. 
 
 ![C# Programmer](https://exampleleumi.com/wp-content/uploads/2015/10/banner-industry-tech.jpg)
 
