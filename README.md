@@ -1,6 +1,6 @@
-                                      ### Hi there 👋, I'm Vasil Kremenarov
+Hi there 👋, I'm Vasil Kremenarov
 
-My name is Vasil and I'm from Bulgaria. I'm currently learning C# and JavaScript at Software University (SoftUni). I like programming and I am good at the exact sciences. My goals for 2022 are to learn more and more features of programming and also to make colaborations with other developers. I'm interested in crypto currencies and real estate investments. I also have a hobby to go skiing in winter and I'm a great bagpipe player. 
+I'm a student from Bulgaria. I'm currently learning C# and JavaScript at Software University (SoftUni). I like programming and I am good at the exact sciences. My goals for 2022 are to learn more and more features of programming and also to make colaborations with other developers. I'm interested in crypto currencies and real estate investments. I also have a hobby to go skiing in winter and I'm a great bagpipe player. 
 
 <h3 align="left">🛠️Languages and Tools🛠️</h3>
 
