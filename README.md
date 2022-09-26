@@ -8,7 +8,7 @@ I'm a student from Bulgaria. I'm currently learning C# and JavaScript at Softwar
 
 For connections with me:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Vaseto28)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/LoadingMM)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Vaseto._28/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg#gh-dark-mode-only' alt='github' height='40'>](https://github.com/Vaseto28)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg#gh-dark-mode-only' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/LoadingMM)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg#gh-dark-mode-only' alt='instagram' height='40'>](https://www.instagram.com/Vaseto._28/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaseto28&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
