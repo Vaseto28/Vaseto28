@@ -19,4 +19,4 @@
 
 <br>
 
-[![Vaseto28's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaseto28&show_icons=true&theme=radical)](https://github.com/iliyanCoding/github-readme-stats)
+[![Vaseto28's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaseto28&show_icons=true&theme=radical)](https://github.com/vaseto28/github-readme-stats)
