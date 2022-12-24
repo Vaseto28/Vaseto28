@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaseto28" alt="vaseto28" /></a> </p>
 
 <h3 align="left">For connections:</h3>
-<h6 align="left">📌email: vaseto.k28@gmail.com:</h6>
+<h6 align="left">📌email: vaseto.k28@gmail.com</h6>
 
 <p align="left">
 <a href="https://twitter.com/vasingzeto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vasingzeto" height="30" width="40" /></a>
