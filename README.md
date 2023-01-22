@@ -18,6 +18,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaseto28&theme=radical&show_icons=true)
 
-<h3 align="left">💻Most used languages💻</h3>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaseto28&theme=radical"/>
