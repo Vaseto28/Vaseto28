@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Vasil Kremenarov</h1>
-<h4 align="center">I'm a student from Bulgaria. I'm currently learning C# and JavaScript at Software University (SoftUni). I like programming and I am good at the exact sciences. My goals for 2022 are to learn more and more features of programming and also to make colaborations with other developers. I'm interested in crypto currencies and real estate investments. I also have a hobby to go skiing in winter and I'm a great bagpipe player.</h4>
+<h4 align="center">I'm a student from Bulgaria. I'm currently learning C# and JavaScript at Software University (SoftUni). I like programming and I am good at the exact sciences. My goals for 2023 are to become financially independent and to get C# Full-Stack Developer diploma. I'm interested in crypto currencies and real estate investments. I also have a hobby to go skiing in winter and I'm a great bagpipe player.</h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaseto28" alt="vaseto28" /></a> </p>
 
