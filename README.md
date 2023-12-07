@@ -2,18 +2,14 @@
 <h4 align="center">I'm a student from Bulgaria. I'm currently learning C# and JavaScript at Software University (SoftUni). I like programming and I am good at the exact sciences. My goals for 2023 are to become financially independent and to get C# Full-Stack Developer diploma. I'm interested in digital and social media marketing and real estate investments. I trained alpine ski proffecionally for 8 years and I'am also playing on a bagpipe. </h4>
 
 **Current projects:**
-<ul>
-    <h4>Property managment system (ASP.NET and JavaScript)</h4>
-    <h4>Advertisment website for a hotel and restaurant (JavaScript, SPA)</h4>
-</ul>
+    <h4>  *  Property managment system (ASP.NET and JavaScript)</h4>
+    <h4>  *  Advertisment website for a hotel and restaurant (JavaScript, SPA)</h4>
 
 **Education:**
-<ul>
-    <h4>Software University (C# and JavaScript)</h4>
-    <h4>Software University (Digital marketing)</h4>
-    <h4>Software University (Social media marketing)</h4>
-    <h4>New Bulgarian University (Business managment and economics)</h4>
-</ul>
+    <h4>  *  Software University (C# and JavaScript)</h4>
+    <h4>  *  Software University (Digital marketing)</h4>
+    <h4>  *  Software University (Social media marketing)</h4>
+    <h4>  *  New Bulgarian University (Business managment and economics)</h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaseto28" alt="vaseto28" /></a> </p>
 
